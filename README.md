@@ -14,4 +14,4 @@ Cliptio accesses the network only to retrieve content you choose to save or to s
 
 ## Contact
 If you have questions about this policy, contact:
-hallerman@gmail.com
+cliptiodev@gmail.com
