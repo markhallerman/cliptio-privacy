@@ -13,5 +13,5 @@ Cliptio does not use third-party analytics or advertising SDKs.
 Cliptio accesses the network only to retrieve content you choose to save or to sync data to and from iCloud.
 
 ## Contact
-If you have questions about this policy, contact:
+If you have questions about this policy or have any support related questions, please contact:
 cliptiodev@gmail.com
