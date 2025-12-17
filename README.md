@@ -1,5 +1,3 @@
-# Cliptio Privacy Policy
-
 Cliptio is designed to respect your privacy.
 
 ## Data Collection
