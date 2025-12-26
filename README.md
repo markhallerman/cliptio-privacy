@@ -1,14 +1,14 @@
-Cliptio Privacy Policy
+## Cliptio Privacy Policy
 
 Cliptio is designed to respect your privacy.
 
-Data Collection
+## Data Collection
 
 Cliptio does not collect personal information, create user accounts, or track you across apps or websites.
 
 Cliptio does not maintain its own servers and does not send your data to the developer.
 
-Content You Save
+## Content You Save
 
 Content you save in Cliptio (clips, highlights, metadata, and any backup snapshots) is stored locally on your device.
 
@@ -17,7 +17,7 @@ If you enable iCloud, your Cliptio data is also stored in your private iCloud ac
 	•	The developer cannot access your iCloud data.
 	•	Apple’s handling of iCloud data is governed by Apple’s privacy policy.
 
-Backup, Sync, and Restore
+## Backup, Sync, and Restore
 
 When iCloud is enabled, Cliptio may read and write data to your iCloud account so that:
 	•	your clips can sync between devices, and
@@ -25,7 +25,7 @@ When iCloud is enabled, Cliptio may read and write data to your iCloud account s
 
 No clip content is transmitted to Cliptio’s developer or any third-party servers at any time.
 
-Optional Diagnostic Logs (User-Initiated Only)
+## Optional Diagnostic Logs (User-Initiated Only)
 
 If you experience a problem, Cliptio allows you to manually choose to email a diagnostic log to the developer.
 	•	Sending a diagnostic log is optional and requires your explicit action.
@@ -35,11 +35,11 @@ If you experience a problem, Cliptio allows you to manually choose to email a di
 
 If you choose not to send a diagnostic log, nothing is transmitted.
 
-Analytics and Tracking
+## Analytics and Tracking
 
 Cliptio does not use third-party analytics, crash reporting services, advertising SDKs, or trackers.
 
-Network Access
+## Network Access
 
 Cliptio accesses the network only:
 	•	to download the content you choose to save, and
@@ -47,7 +47,7 @@ Cliptio accesses the network only:
 
 Cliptio does not otherwise communicate with external services.
 
-Contact
+## Contact
 
 If you have questions about this policy or need support, please contact:
 
